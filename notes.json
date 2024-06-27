@@ -1,0 +1,22 @@
+[
+    {
+        "text": "hello. this is zenera a productivity tool",
+        "color": "yellow"
+    },
+    {
+        "text": "It uses python, flask, html, css, javascript, jquery and ajax as its tech stack",
+        "color": "lightblue"
+    },
+    {
+        "text": "developers: Prachita, Parineetha, Nilaya, Manvi and Lekhya",
+        "color": "pink"
+    },
+    {
+        "text": "add a new note with varying text length",
+        "color": "lightblue"
+    },
+    {
+        "text": "hiiiii",
+        "color": "pink"
+    }
+]
