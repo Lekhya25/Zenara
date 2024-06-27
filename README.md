@@ -2,6 +2,8 @@
 
 Zenara is a comprehensive productivity tool designed to integrate various essential features into a singular platform. It aims to enhance productivity by providing a seamless experience that combines task management, collaboration, and innovative productivity enhancements.
 
+Watch demo [here](https://github.com/Lekhya25/Zenara/blob/main/Zenara_DemoVideo_compressed.mp4)
+
 
 ## Problem Statement
 
